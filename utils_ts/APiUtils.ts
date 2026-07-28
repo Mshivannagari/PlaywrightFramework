@@ -47,7 +47,6 @@ export class APiUtils
 
 
     }
-module.exports = {APiUtils};
 
 
 

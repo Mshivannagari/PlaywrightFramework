@@ -52,4 +52,3 @@ getOrdersReviewPage()
     return this.ordersReviewPage;
 }
 }
-module.exports = {POManager};

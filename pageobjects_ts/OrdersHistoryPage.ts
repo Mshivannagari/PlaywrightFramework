@@ -34,4 +34,3 @@ async getOrderId()
 }
 
 }
-module.exports = {OrdersHistoryPage};

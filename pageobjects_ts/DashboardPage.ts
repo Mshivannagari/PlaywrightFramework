@@ -49,4 +49,3 @@ async navigateToCart()
 }
 
 }
-module.exports = {DashboardPage};

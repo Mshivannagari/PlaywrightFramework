@@ -6,3 +6,9 @@ test-results/
 *.png
 state.json
 temp_explore.js
+
+# Playwright
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
